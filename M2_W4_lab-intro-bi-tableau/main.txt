@@ -1,0 +1,3 @@
+Link to Lab: https://public.tableau.com/views/LabIntroductiontoBIandTableau_16446812262590/AvgWarehouseYType?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+
+FYI: Aliases were frozen - prob a tableau public bug
